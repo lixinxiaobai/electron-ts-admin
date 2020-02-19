@@ -1,0 +1,19 @@
+{
+  "extends": "./tsconfig.paths.json",
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "target": "es5",
+    "baseUrl": "./",
+    "rootDir": "./",
+    "jsx": "react",
+    "module": "esnext",
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node",
+    "noUnusedLocals": true,
+    "pretty": true,
+    "sourceMap": true,
+    "resolveJsonModule": true,
+    "lib": ["dom", "dom.iterable", "esnext"]
+  },
+  "exclude": ["node_modules", "**/node_modules/*"]
+}
