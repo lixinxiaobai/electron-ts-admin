@@ -278,7 +278,7 @@
     "@types/serialport": "^7.0.4",
     "@types/styled-components": "^4.1.19",
     "antd": "^3.23.3",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "babel-plugin-import": "^1.12.1",
     "cross-env": "^6.0.3",
     "devtron": "^1.4.0",
